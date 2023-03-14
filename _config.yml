@@ -35,23 +35,23 @@ author_work_experiences:
             - company_name: ORCA
               company_logo: 
               company_url: 
-              designation: Perception engineer
+              designation: Perception Engineer
               description: 
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Shanghai AIlab 
+              company_logo: 
+              company_url: 
+              designation: Project manager
+              description: 
               visibility: true
 
 # Education
 author_education_details:
-              - college_logo: mit.png
+              - college_logo: 
                 college_name: SJTU
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_url:  
+                college_degree: Msc. in Engineer
+                description: 
                 visibility: true
 
 # Projects
