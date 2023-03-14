@@ -3,7 +3,7 @@ Xueyao:
    name: Xueyao Liang
    username: Xueyao
    site: http://lxy9710.github.io
-   avatar: gallery\imgs\lxy.jpg
+   avatar: 'gallery\imgs\lxy.jpg'
    bio: "Hi I'm Xueyao, a robotics engineer and researcher :D"
    email: claire_stu@163.com
 
